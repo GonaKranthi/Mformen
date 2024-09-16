@@ -20,3 +20,5 @@ Join us at **WForWomen** and elevate your fashion game today!
 ---
 
 You can use the shopping bags emoji (🛍️) or any relevant icon to represent the project visually in your README.
+
+Join us at **WForWomen** and elevate your fashion game today!
